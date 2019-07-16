@@ -1,11 +1,6 @@
 
 <p align="center"><img src="resume_photo.png"></p>
 
-<p align="center">
-  <a href="https://github.com/krystalz42"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
-</p>
-
 ---
 
 Aged 27, I am living close to Paris.
