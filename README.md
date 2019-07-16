@@ -2,7 +2,6 @@
 <p align="center"><img src="resume_photo.png"></p>
 
 <p align="center">
-  <a href="mailto:roulin.aleandre@gmail.com"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
   <a href="https://github.com/krystalz42"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
   <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
 </p>
@@ -15,6 +14,9 @@ Soon to finish my current studies in 42 school.
 I would like to work in C/C++, on embedded system projects.
 
 Looking for an internship for september.
+
+You can contact me at  `roulin.aleandre@gmail.com`
+
 <br/>
 
 ## Latest Projects 
