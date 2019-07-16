@@ -8,9 +8,9 @@ Aged 27, I am living close to Paris.
 Soon to finish my current studies in 42 school.
 I would like to work in C/C++, on embedded system projects.
 
-Looking for an internship for september.
+Looking for an internship for September.
 
-You can contact me at  `roulin.aleandre@gmail.com`
+You can contact me at  `roulin.alexandre@gmail.com`
 
 <br/>
 
