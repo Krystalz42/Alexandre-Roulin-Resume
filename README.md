@@ -17,7 +17,7 @@ You can contact me at  `roulin.aleandre@gmail.com`
 ## Latest Projects 
 
 - [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm.
-- [**Nibbler **](https://github.com/Krystalz42/nibbler), Snake Multiplayer
+- [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer
 - [**42sh**](https://github.com/Krystalz42/42sh), Shell implementation in C 
 
 
