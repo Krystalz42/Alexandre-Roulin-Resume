@@ -1,5 +1,5 @@
 
-<p align="center"><img src="header.png"></p>
+<p align="center"><img src="resume_photo.png"></p>
 
 <p align="center">
   <a href="mailto:roulin.aleandre@gmail.com"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
@@ -9,8 +9,12 @@
 
 ---
 
-I am currently looking for a final internship in Sweden. I am finishing my studies at 42 school, in Paris. 
-I really want to try Sweden and hopefully, be able to move in there after the internship.
+Aged 27, I am living close to Paris.
+
+Soon to finish my current studies in 42 school.
+I would like to work in C/C++, on embedded system projects.
+
+Looking for an internship for september.
 <br/>
 
 ## Latest Projects 
@@ -24,25 +28,10 @@ I really want to try Sweden and hopefully, be able to move in there after the in
 
 ## Experience 
 
-#### Deep Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
+#### Mobile application Internship, [Kraze](https://www.kraze.fr/)
+##### May 2018 - August 2018 (6 months)  | Paris
 
-Developing deep learning projects and documenting the process.
-
---- 
-
-#### Co-founder, [Emerge Education](https://emerge.education/)
-##### December 2012 - November 2014 (2 years) | London
-
-Europe's leading seed investor for edtech companies.
-
----
-
-
-#### TA and Developer, [University of Oxford - Said Business School](https://www.sbs.ox.ac.uk/)
-##### April 2012 - January 2014 (1 year 10 months) | Oxford
-
-I assisted their MBA course on design thinking and did websites for the Skoll Centre.
+Developing mobile application in Kotlin and script on JS
 
 ---
 
@@ -51,7 +40,7 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 ## Education
 
 #### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2019) | Paris
+##### (2017 - 2019) | Paris
 
 42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. 
 
