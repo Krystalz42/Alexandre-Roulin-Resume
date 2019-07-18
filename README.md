@@ -30,13 +30,13 @@ You can contact me at  `roulin.alexandre@gmail.com`
 
 Developing mobile application in Kotlin and script on JS
 
+---
 
 #### Before being developer
 ##### 2009 2015 
 
 Cooker at Georges V ***, Royal Monceau **, Rackham *
 
----
 
 <br/>
 
