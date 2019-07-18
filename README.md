@@ -33,7 +33,7 @@ Developing mobile application in Kotlin and script on JS
 ---
 
 #### Before being developer
-##### 2009 2015 
+##### 2009 - 2015 
 
 Cooker at Georges V ***, Royal Monceau **, Rackham *
 
