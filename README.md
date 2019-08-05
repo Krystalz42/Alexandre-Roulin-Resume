@@ -5,7 +5,7 @@
 
 Aged 27, I am living close to Paris.
 
-Soon to finish my current studies in 42 school.
+Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).
 I would like to work in C/C++, on embedded system projects.
 
 Looking for an internship for September.
@@ -53,7 +53,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham *
 
 ### Programming
 
-- C, C++
+- C, C++, Bash, Kotlin/Java
 
 
 ### Languages
