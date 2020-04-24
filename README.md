@@ -6,7 +6,7 @@
 Aged 27, I am living close to Paris.
 
 Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).
-I would like to work in C/C++, on embedded system projects.
+I would like to work in Rust and travel in europe.
 
 Looking for an internship for September.
 
@@ -16,6 +16,7 @@ You can contact me at  `roulin.alexandre@gmail.com`
 
 ## Latest Projects 
 
+- [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. (In progress)
 - [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm.
 - [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer
 - [**42sh**](https://github.com/Krystalz42/42sh), Shell implementation in C 
@@ -24,6 +25,13 @@ You can contact me at  `roulin.alexandre@gmail.com`
 <br/>
 
 ## Experience 
+
+#### Software engineer, [CareGame](https://www.caregame.com/)
+##### September 2019 - January 2020 (6 months)  | Paris
+
+Developing a cloud mobile gaming software
+
+---
 
 #### Mobile application Internship, [Kraze](https://www.kraze.fr/)
 ##### May 2018 - August 2018 (6 months)  | Paris
@@ -53,7 +61,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham *
 
 ### Programming
 
-- C, C++, Bash, Kotlin/Java
+- Rust, C, C++, Bash, Kotlin/Java
 
 
 ### Languages
