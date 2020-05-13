@@ -8,8 +8,6 @@ Aged 27, I am living close to Paris.
 Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).
 I would like to work in Rust and travel in europe.
 
-Looking for an internship for September.
-
 You can contact me at  `roulin.alexandre@gmail.com`
 
 <br/>
