@@ -15,8 +15,8 @@ You can contact me at  `roulin.alexandre@gmail.com`
 ## Latest Projects 
 
 - [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. (In progress)
-- [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm.
-- [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer
+- [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm in C++.
+- [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer in C++
 - [**42sh**](https://github.com/Krystalz42/42sh), Shell implementation in C 
 
 
@@ -27,14 +27,14 @@ You can contact me at  `roulin.alexandre@gmail.com`
 #### Software engineer, [CareGame](https://www.caregame.com/)
 ##### September 2019 - January 2020 (6 months)  | Paris
 
-Developing a cloud mobile gaming software
+Developing a cloud mobile gaming software in *Rust*
 
 ---
 
 #### Mobile application Internship, [Kraze](https://www.kraze.fr/)
 ##### May 2018 - August 2018 (6 months)  | Paris
 
-Developing mobile application in Kotlin and script on JS
+Developing mobile application in *Kotlin* and script on *JavaScript*
 
 ---
 
