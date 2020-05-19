@@ -5,10 +5,10 @@
 
 Aged 27, I am living close to Paris.
 
-Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).
-I would like to work in Rust and travel in europe.
-I've already worked for a company as a cook in the most famous hotels in Paris.
-I'm a hard worker and I'm really passionate about programming. 
+Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).<br />
+I would like to work in Rust and travel in europe.<br />
+I've already worked for a company as a cook in the most famous hotels in Paris.<br />
+I'm a hard worker and I'm really passionate about programming.<br />
 
 You can contact me at  `roulin.alexandre@gmail.com`
 
