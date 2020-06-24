@@ -16,10 +16,10 @@ You can contact me at  `roulin.alexandre@gmail.com`
 
 ## Latest Projects 
 
-- [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. (In progress)
-- [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm in C++.
-- [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer in C++
-- [**42sh**](https://github.com/Krystalz42/42sh), Shell implementation in C 
+- [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. [ C/Rust/ASM/Low-Level]
+- [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm in C++. [ C++/Network/Low-Level/A-Star/Algorithm ]
+- [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer in C++ [ C++/Network/Low-Level/A-Star/ECS ]
+- [**42sh**](https://github.com/Krystalz42/42sh), Shell implementation in C [ C/Low-Level ]
 
 
 <br/>
