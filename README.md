@@ -61,7 +61,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham *
 
 ### Programming
 
-- Rust, C, C++, Bash, Kotlin/Java
+- Rust, C, C++, ASM, Bash, Kotlin/Java, Android, Javascript
 
 ### Languages
 
