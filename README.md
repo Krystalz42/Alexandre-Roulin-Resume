@@ -3,14 +3,9 @@
 
 ---
 
-Aged 27, I am living close to Paris.
-
-Soon to finish my current studies in school ([42Born2Code](https://www.42.fr/)).<br />
-I would like to work in Rust and travel in europe.<br />
-I've already worked for a company as a cook in the most famous hotels in Paris.<br />
-I'm a hard worker and I'm really passionate about programming.<br />
-
-You can contact me at  `roulin.alexandre@gmail.com`
+Aged 27, I am living close to Paris.<br />
+Freshly graduated as 42 Junior, I am currently looking for an jobs in Europe.<br />
+You can contact me at  `roulin.alexandre@gmail.com`<br />
 
 <br/>
 
@@ -59,9 +54,22 @@ Cooker at Georges V ***, Royal Monceau **, Rackham *
 
 ## Stack
 
+### Fields
+
+- Network, Unix, ECS
+
 ### Programming
 
-- Rust, C, C++, ASM, Bash, Kotlin/Java, Android, Javascript
+- Rust, C, C++, ASM, Bash, Kotlin/Java, Javascript
+
+###  Tools
+
+- Gdb, Git, Zsh, OpenCV, 
+
+### Platforms
+
+- Unix, OSX
+
 
 ### Languages
 
