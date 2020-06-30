@@ -83,3 +83,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham *
 
 <br/>
 
+## Links
+
+_LinkedIn_ : https://www.linkedin.com/in/alexandre-roulin-5242b0141/
+
