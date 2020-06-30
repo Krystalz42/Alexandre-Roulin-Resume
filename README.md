@@ -38,7 +38,7 @@ Developing mobile application in *Kotlin* and script on *JavaScript*
 #### Before being developer
 ##### 2009 - 2015 
 
-Cooker at Georges V ***, Royal Monceau **, Rackham *
+Cooker at Georges V ***, Royal Monceau **, Rackham * (Opening this restaurant with a friend)
 
 
 <br/>
