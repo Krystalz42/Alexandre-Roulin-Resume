@@ -86,4 +86,6 @@ Cooker at Georges V ***, Royal Monceau **, Rackham * (Opening this restaurant wi
 ## Links
 
 _LinkedIn_ : https://www.linkedin.com/in/alexandre-roulin-5242b0141/
+_Github_ : https://github.com/alexandre-roulin
+_CV_ : https://github.com/alexandre-roulin/Alexandre-Roulin-Resume
 
