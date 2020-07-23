@@ -66,7 +66,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham * (Opening this restaurant wi
 
 ###  Tools
 
-- Gdb, Git, Zsh, OpenCV, 
+- Gdb, Git, Zsh, OpenCV, GStreamer
 
 ### Platforms
 
