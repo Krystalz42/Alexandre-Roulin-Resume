@@ -11,7 +11,7 @@ You can contact me at  `roulin.alexandre@gmail.com`<br />
 
 ## Latest Projects 
 
-- [**Kecs**](https://github.com/alexandre-roulin/Kecs/), A soft-ECS  implementation. _Rust/DataArchitecture/ThreadSafe_
+- [**Kecs**](https://github.com/alexandre-roulin/Kecs/), A soft-ECS implementation(in progress). _Rust/DataArchitecture/ThreadSafe_
 - [**Knet**](https://github.com/alexandre-roulin/knet), Server/client with I/O asynchronous on a `T` type. _Rust/Async/MacroProcedural/Network_
 - [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. _Rust/C/ASM/Low-Level_
 - [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm. _C++/Network/Low-Level/A-Star/Algorithm_
