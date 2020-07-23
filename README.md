@@ -3,7 +3,7 @@
 
 ---
 
-Aged 27, I am living close to Paris.<br />
+Aged 28, I am living close to Paris.<br />
 Freshly graduated as 42 Junior, I am currently looking for an jobs in Europe.<br />
 You can contact me at  `roulin.alexandre@gmail.com`<br />
 
@@ -11,6 +11,8 @@ You can contact me at  `roulin.alexandre@gmail.com`<br />
 
 ## Latest Projects 
 
+- [**Kecs**](https://github.com/alexandre-roulin/Kecs/), A soft-ECS  implementation. _Rust/DataArchitecture/ThreadSafe_
+- [**Knet**](https://github.com/alexandre-roulin/knet), Server/client with I/O asynchronous on a `T` type. _Rust/Async/MacroProcedural/Network_
 - [**Compiler**](https://github.com/Krystalz42/soft-compiler), Compiler in Rust for C. _Rust/C/ASM/Low-Level_
 - [**N-Puzzle**](https://github.com/Krystalz42/n-puzzle), Resolver of an n-puzzle algorithm. _C++/Network/Low-Level/A-Star/Algorithm_
 - [**Nibbler**](https://github.com/Krystalz42/nibbler), Snake Multiplayer with dynamic library. _C++/Network/Low-Level/A-Star/ECS_
@@ -85,7 +87,7 @@ Cooker at Georges V ***, Royal Monceau **, Rackham * (Opening this restaurant wi
 
 ## Links
 
-_LinkedIn_ : https://www.linkedin.com/in/alexandre-roulin-5242b0141/<br/>
-_Github_ : https://github.com/alexandre-roulin<br/>
-_CV_ : https://github.com/alexandre-roulin/Alexandre-Roulin-Resume<br/>
+- [**LinkedIn**](https://www.linkedin.com/in/alexandre-roulin-5242b0141/)
+- [**Github**](https://github.com/alexandre-roulin)
+- [**CV**](https://github.com/alexandre-roulin/Alexandre-Roulin-Resume)
 
